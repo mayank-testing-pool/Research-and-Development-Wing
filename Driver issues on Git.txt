@@ -1,0 +1,6 @@
+https://github.com/SeleniumHQ/selenium/issues/7069
+
+https://github.com/mozilla/geckodriver/issues/1538
+
+Similar issues
+https://github.com/SeleniumHQ/selenium/issues/6428
